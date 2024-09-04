@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning at Hactiv8
+I'm currently learning at Hacktiv8
 
 
 ## 🌐 Socials:
