@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently learning at Hacktiv8
-
+A front-end developer passionate about building seamless and efficient web and mobile applications. With expertise in React, React Native Expo, and modern frontend technologies, I specialize in creating responsive, high-performance user interfaces that integrate smoothly with backend systems. My programming journey started long before completing the Hacktiv8 bootcamp, which further refined my skills in frontend development. With experience in developing scalable web applications, implementing API integrations, and optimizing performance, I am committed to delivering intuitive and engaging user experiences.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/themordhon1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhamad-romdon-b16b7a187) 
